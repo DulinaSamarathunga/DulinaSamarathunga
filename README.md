@@ -135,6 +135,6 @@ Explore additional projects in Machine Learning, Computer Vision, NLP, and Full-
 
 > *"Transforming ideas into scalable, intelligent solutions."*
 
-* Keep building, keep learning. Thanks for stopping by! *
+ *Keep building, keep learning. Thanks for stopping by!*
 
 </div>
