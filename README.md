@@ -59,7 +59,7 @@ I'm a **Computer Science undergraduate** and aspiring **Machine Learning Enginee
 <td width="50%">
 <td height="70%">
 
-###  [Portfolio-Website](https://github.com/DulinaSamarathunga/supplygenie-metamorphs-idealize-ai-service)
+###  [Portfolio-Website](https://github.com/DulinaSamarathunga/Portfolio-Website)
 A personal portfolio website to showcase projects, skills, and contact information.
 
 **Tech Stack:** *HTML · CSS · Java Script*
