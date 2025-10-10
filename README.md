@@ -58,49 +58,22 @@ I'm a **Computer Science undergraduate** and aspiring **Machine Learning Enginee
 <tr>
 <td width="50%">
 
-###  [SupplyGenie - Multi-Agent AI System](https://github.com/DulinaSamarathunga/supplygenie-metamorphs-idealize-ai-service)
-Intelligent supply chain automation platform powered by multi-agent AI architecture for predictive analytics and optimization.
+###  [Portfolio-Website](https://github.com/DulinaSamarathunga/supplygenie-metamorphs-idealize-ai-service)
+A personal portfolio website to showcase projects, skills, and contact information.
 
-**Tech Stack:** *Python · Flask · LangGraph · LangChain · OpenAI*
-
-</td>
-<td width="50%">
-
-###  [SDG Awareness Platform](https://github.com/DulinaSamarathunga/sdg-awareness-site)
-Interactive educational platform promoting awareness and learning about the United Nations Sustainable Development Goals.
-
-**Tech Stack:** *HTML · CSS · JavaScript · Firebase*
-
+**Tech Stack:** *HTML · CSS · Java Script*
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-###  [SQL DBMS with Python](https://github.com/DulinaSamarathunga/SQL-DBMS-with-python)
-Lightweight relational database management system built from scratch in Python for efficient data management and querying.
-
-**Tech Stack:** *Python · Data Structures · SQL Parser*
-
-</td>
-<td width="50%">
-
-###  [More Projects →](https://github.com/DulinaSamarathunga?tab=repositories)
-Explore additional projects in Machine Learning, Computer Vision, NLP, and Full-Stack Development.
-
-</td>
-</tr>
 </table>
 
 ---
 
 ##  Certifications
 
-- 🎓 **Google ML Crash Course** - Machine Learning Fundamentals
-- 📊 **IBM Data Science Professional Certificate** - End-to-End Data Science
-- 🏆 **Kaggle Certifications** - Machine Learning, Computer Vision, NLP
-- 🐍 **FreeCodeCamp** - Data Analysis with Python
-- ☁️ **Microsoft Learn** - Azure AI & Cloud Services
-- 💼 **LinkedIn Learning** - MLOps, Generative AI, Data Engineering
+- 🎓 **PDU Course** - Cyber Security
+- 🏆 **Kaggle Certifications** - Intro to Machine Learning
+- 💼 **LinkedIn Learning** - Objects & APIs, Syntax and Structure, Object-Oriented Programming
 
 ---
 
