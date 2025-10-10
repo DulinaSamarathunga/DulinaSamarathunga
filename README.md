@@ -57,13 +57,11 @@ I'm a **Computer Science undergraduate** and aspiring **Machine Learning Enginee
 <table>
 <tr>
 <td width="50%">
-<td height="70%">
 
 ###  [Portfolio-Website](https://github.com/DulinaSamarathunga/Portfolio-Website)
 A personal portfolio website to showcase projects, skills, and contact information.
 
 **Tech Stack:** *HTML · CSS · Java Script*
-</td>
 </td>
 </tr>
 
